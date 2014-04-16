@@ -1,4 +1,4 @@
-policies
+Policies
 ========
 
 Physion legal policies
